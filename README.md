@@ -21,4 +21,4 @@ The simulator checks for out of bounds instruction memory and data memory
 access. It also check if register 0 is overwritten. A fail safe mechanism
 checks if the simulator is stuck in an infinite loop.
 
-![[Pasted image 20220720185557.png]]
+<img width="686" alt="image" src="https://user-images.githubusercontent.com/67783915/179966303-430bbc89-1dd7-4ef2-8204-9e81ee28708f.png">
