@@ -20,3 +20,5 @@ ADD, ADDI, SUB, SUBI, J, BEQZ, BNEZ, LW, and SW.
 The simulator checks for out of bounds instruction memory and data memory
 access. It also check if register 0 is overwritten. A fail safe mechanism
 checks if the simulator is stuck in an infinite loop.
+
+![[Pasted image 20220720185557.png]]
